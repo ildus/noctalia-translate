@@ -1,0 +1,8 @@
+{
+  "settings.base_url.label": "API base URL",
+  "settings.base_url.description": "OpenAI-compatible origin, without /v1.",
+  "settings.api_key.label": "API key",
+  "settings.api_key.description": "Sent as Authorization: Bearer.",
+  "settings.model.label": "Model",
+  "settings.model.description": "Model id for /v1/chat/completions."
+}

@@ -1,0 +1,4 @@
+# Runtime choices (base URL, API key, model, languages) belong in the
+# Noctalia plugin data directory, not in this tree.
+config.json
+.env
